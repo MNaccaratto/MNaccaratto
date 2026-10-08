@@ -1,5 +1,5 @@
 
- ## Hello there 👋
+ ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello!+I'm+Lauren+%F0%9F%91%8B;Computer+Science+%26+Economics+%40+RIT)](https://git.io/typing-svg)
 
 ###
 
@@ -13,10 +13,28 @@
 </div>
 
 ###
-
+<!-- Visitor Count: -->
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=MNaccaratto.MNaccaratto&"  />
 </div>
+
+###
+
+About Me:
+Hello! I'm Lauren Naccaratto | CS + Economics @ RIT | 
+- I have interned @ Liberty Mutual as a Product + Full-Stack Software Engineer Intern and @ FactSet as a Software Engineer Extern
+- I have worked @ RIT as a CS Student Instructor and Tutor for intro and upperlevel courses across multiple departments
+- In my free time, I enjoy building projects, reading, gaming, cooking/baking, travelling, and watching sports!
+
+On campus, I am President of the Computing Organization for Multicultural Students (COMS)
+
+Thank you for visiting, and I hope you enjoy exploring the skills and projects I've developed along the way!
+
+###
+<!-- Add this when you have more contributions to show your GitHub stats -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=MNaccaratto&show_icons=true&theme=tokyonight&rank_icon=percentile" alt="GitHub Stats" /> -->
+
+<img src="https://streak-stats.demolab.com?user=MNaccaratto&theme=tokyonight&hide_border=false" alt="Streak Stats" />
 
 <!--
 **MNaccaratto/MNaccaratto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
