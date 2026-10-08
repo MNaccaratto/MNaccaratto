@@ -1,8 +1,6 @@
 
  ## Hello there 👋
 
-## My Contribution Graph
-
 <!-- Pacman -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MNaccaratto/MNaccaratto/output/pacman-contribution-graph-dark.svg">
@@ -21,8 +19,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white" alt="AWS" />
 </p>
-
-## About me
 
 <!--
 **MNaccaratto/MNaccaratto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
