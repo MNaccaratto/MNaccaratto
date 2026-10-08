@@ -28,7 +28,7 @@
 **Hello! I'm Lauren Naccaratto | CS + Economics @ RIT**
 
 - 💼 I have interned @ **Liberty Mutual** as a Product & Full-Stack Software Engineer Intern and @ **FactSet** as a Software Engineer Extern.
-- 🎓 I have worked @ **RIT** as a CS Student Instructor and Tutor for intro and upper-level courses across multiple departments.
+- 🎓 I work @ **RIT** as a CS Student Instructor and Tutor for intro and upper-level courses across multiple departments.
 - 🏛️ On campus, I am President of the **Computing Organization for Multicultural Students (COMS)**.
 - ⚡ In my free time, I enjoy building projects, reading, gaming, cooking/baking, traveling, and watching sports!
 
