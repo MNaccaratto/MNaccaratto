@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello!+I'm+Lauren+%F0%9F%91%8B;Computer+Science+%26+Economics+%40+RIT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello!+I'm+Lauren+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </div>
 
@@ -80,7 +80,9 @@
 
 <h3 align="left">🔥 My Stats</h3>
 
-<img src="https://streak-stats.demolab.com?user=MNaccaratto&background=150A0B&border=4A0E17&ring=9E2A2B&fire=F70000&currStreakNum=F5EBE0&sideNums=F5EBE0&currStreakLabel=C4A79A&sideLabels=C4A79A&dates=C4A79A&hide_border=false" alt="Streak Stats" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MNaccaratto&background=00000000&border=4A0E17&ring=9E2A2B&fire=F70000&currStreakNum=F5EBE0&sideNums=F5EBE0&currStreakLabel=C4A79A&sideLabels=C4A79A&dates=C4A79A&hide_border=false" alt="Streak Stats" />
+</div>
 
 ###
 
