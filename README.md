@@ -81,7 +81,7 @@
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MNaccaratto&theme=tokyonight&hide_border=false" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=MNaccaratto&background=00000000&border=4A0E17&ring=9E2A2B&fire=F70000&currStreakNum=F5EBE0&sideNums=F5EBE0&currStreakLabel=C4A79A&sideLabels=C4A79A&dates=C4A79A&hide_border=false" alt="Streak Stats" />
 </div>
 
 ###
