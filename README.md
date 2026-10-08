@@ -1,13 +1,6 @@
 
  ## Hello there 👋
 
-<!-- Pacman -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MNaccaratto/MNaccaratto/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MNaccaratto/MNaccaratto/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/MNaccaratto/MNaccaratto/output/pacman-contribution-graph.svg">
-</picture>
-
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
